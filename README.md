@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Atousa Mirderikvand 👋
 
-<!--
-**atousamirderikvand/atousamirderikvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Sc. Computer Science student at Alzahra University with research interests in **Bioinformatics, Computational Biology, and Machine Learning**.
 
-Here are some ideas to get you started:
+## 🔬 Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My undergraduate research focuses on integrative analysis of **transcriptomic and microbiome data in colorectal cancer**.
+
+I have worked on:
+- Differential gene expression analysis
+- Microbiome data analysis
+- Protein–protein interaction (PPI) networks
+- Structural controllability analysis
+- Driver gene identification
+- Drug–gene mapping and therapeutic target discovery
+
+This research has resulted in a manuscript currently submitted for publication.
+
+## 🧬 Research Interests
+
+- Bioinformatics
+- Computational Biology
+- Machine Learning for Biomedical Data
+- Genomics & Transcriptomics
+- Multi-omics Data Integration
+- Precision Medicine
+
+## 💻 Technical Skills
+
+- Python
+- Machine Learning
+- Bioinformatics Data Analysis
+- Cytoscape
+- Algorithms
+- C++
+
+## 📫 Contact
+
+- Email: atousa.derrick@gmail.com
